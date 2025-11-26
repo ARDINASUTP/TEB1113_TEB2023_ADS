@@ -11,3 +11,4 @@
 | 25/10/16 | **Circular Linked List** |[**Task 1**](25_10_16_Lab4/Task1_Circular.cpp)|
 | 25/10/23 | **Stack** |[**Task 1**](25_10_23_Lab5/task1_Stack.cpp)|
 | 25/11/06 | **Queue** |[**Task 1**](25_11_06_Lab6/task1_queue.cpp)|
+| 25/11/13 | **Tree** |[**Task 1**](25_11_13_Lab7/task.cpp)|
